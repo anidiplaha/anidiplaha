@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anidiplaha
-- 👀 I’m interested in Devlopment Python  
+- 👀 I’m interested in Devlopment Python and JAVA
 - 🌱 I’m currently learning Python & IOT  
 - 💞️ I’m looking to collaborate on Python Projects
 - 📫 How to reach me 8981636248
